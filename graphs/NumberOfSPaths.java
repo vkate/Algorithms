@@ -6,7 +6,7 @@
  * estination
  *
  */
-public class Vxk142730_Driver {
+public class NumberOfSPaths {
 	/**
 	 * queue of nodes initially empty.
 	 */
