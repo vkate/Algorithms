@@ -1,6 +1,6 @@
 
 /**
- * @author Vamsi Katepalli Vxk142730
+ * @author Vamsi Katepalli
  * This is the driver class which starts the process
  * to find number of shortest paths from source to d
  * estination
